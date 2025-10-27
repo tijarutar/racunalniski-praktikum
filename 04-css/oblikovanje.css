@@ -54,11 +54,17 @@ h2 {
     text-align: left;
     float: right;
     margin-left: 2em;
-    
+
 }
 
 .slika img {
     width: 100%;
     height: auto;
+    border-radius: 50%;
 }
 
+.slika p:last-child {
+    font-size: 0.8em;
+    margin-top: 0.2em;
+}
+a::before {content: ">";}
