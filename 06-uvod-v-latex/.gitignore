@@ -1,0 +1,37 @@
+# VSCode
+.vscode/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.run.xml
+*.synctex.gz
+*.xdv
+*.lof
+*.lot
+*.pdf
+
+
+# Dodatno
+urnik-resitev.pdf
+test/
+
+# MacOS
+__MACOSX
+.DS_Store
+
+# Windows
+thumbs.db
+
+# Python
+__pycache__
