@@ -42,5 +42,5 @@ Včasih pride prav značka ```kbd``` za tipke. Značko uporabimo takole:
 3. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
 4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## 7. domača naloga
+## 7. domača naloga - popravljena
 [tijarutar.github.io](https://racunalniski-praktikum.github.io/00-uvod.html)
